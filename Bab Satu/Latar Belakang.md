@@ -1,7 +1,5 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# ya tolong
-
 Sempurna! Saya telah membuat **versi final lengkap latar belakang penelitian** yang telah disesuaikan dengan semua kriteria temporal APA 7 dan konvensi akademis Indonesia.
 
 ***
